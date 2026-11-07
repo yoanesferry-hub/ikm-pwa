@@ -1,0 +1,26 @@
+{
+  "name": "IKM Kartu Stok Digital",
+  "short_name": "IKM Stok",
+  "description": "Sistem Manajemen Bahan Baku IKM",
+  "start_url": "https://script.google.com/macros/s/https://script.google.com/macros/s/AKfycbw9oOh53mu4kYOdlQzecT_o5MRDZvNvs2Fb_2CBE4x-x53nKyW3E9_KfOne_AJbjdFc/exec",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0f7f7",
+  "theme_color": "#0d7377",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
